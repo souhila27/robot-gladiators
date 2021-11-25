@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //this create a function named "fight"
 function fight() {
     window.alert("the fight has begun!");
@@ -14,3 +15,6 @@ console.log("our robot's name is" + playerName);
 
 fight();
 
+=======
+window.alert("This is an alert! JavaScript is running!");
+>>>>>>> ae6d3e6c4c26858c2c3455e36600c8b40c1f0b19
